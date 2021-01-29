@@ -11,7 +11,6 @@ use app\services\parsers\CurrencyRateParser;
 use yii\console\Controller;
 use yii\console\ExitCode;
 
-
 /**
  * This command update currency rates
  */
